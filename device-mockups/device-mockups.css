@@ -308,7 +308,7 @@
 }
 
 .device-mockup.iphone6_plus.landscape {
-	padding-bottom: 49.56%;
+	padding-bottom: 79.56%;
 }
 
 .device-mockup.iphone6_plus > .device,
@@ -357,7 +357,7 @@
 
 .device-mockup.iphone6_plus.landscape > .device > .button {
 	display: block;
-	top: 33%; bottom: 33%; left: 79.9%; right: 3.2%;
+	top: 43%; bottom: 43%; left: 79.9%; right: 3.2%;
 }
 
 /* iPad */
