@@ -306,3 +306,14 @@ footer {
 .btn-xl {
   font-size: 11px;
   padding: 15px 45px; }
+
+.btn-feature{
+	border : solid 2px #ffffff;
+	border-radius : 3px;
+	moz-border-radius : 3px;
+	font-size : 20px;
+	color : #ffffff;
+	padding : 1px 17px;
+	background-color : #0a66c9;
+
+}
